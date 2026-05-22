@@ -1,0 +1,6 @@
+{
+  "name": "VKontakte Cover Generator",
+  "description": "Professional 1920x768 VK group cover designer customized for Artem AI Integrator services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
